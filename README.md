@@ -4,4 +4,6 @@ The purpose of this project is to scrape data from a website (this project I use
 saves data to the database and you can list the products on the database in the app
 
 
-In this project I use ReactJs for the frontend and nodeJS for the backend development 
+ReactJs for the frontend, 
+nodeJS(electron js and puppeteer) for the backend,
+Postgresql for the database
