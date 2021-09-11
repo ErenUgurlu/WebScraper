@@ -1,0 +1,8 @@
+STEP-1:
+	open your database queery editor and paste scraper.sql
+STEP-2:
+	open database.js which in scraper folder write your password and databaseName
+STEP-3
+	write in the terminal "npm i" while inside the scraper folder than enter the client folder and again write "npm i"
+STEP-4
+	write in the terminal "npm run dev" while inside the scraper folder, now app is working
